@@ -3,7 +3,7 @@
 I am a focused Computer Science major with 2 months of work experience aiming to leverage a proven knowledge of programming, applocation development and technologies such as data science to succesfully fill this role at your company. I can be relied upon to help
 your company achieve its goals with efficiency and outstanding ideas.
 
-Reach me at : mailto:tarunkodakandla@gmail.com
+Reach me at : [mailto](mailto:tarunkodakandla@gmail.com)
 <!--
 **Tarun-Acharya/Tarun-Acharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
