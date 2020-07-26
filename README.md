@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img align="left" width="100" height="100" src="karl-pawlowicz-gbRaa67fEPo-unsplash.jpg">
-![](/karl-pawlowicz-gbRaa67fEPo-unsplash.jpg)
+<img align="right" width="300" height="300" src="karl-pawlowicz-gbRaa67fEPo-unsplash.jpg">
+
 <!--
 **Tarun-Acharya/Tarun-Acharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
