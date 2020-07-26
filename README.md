@@ -7,9 +7,9 @@ One of those machine learning enthusiast trying to figure out the smart ideas be
 <br>
 
 I read and write articles.
-Take a look at my portfolio: [Tarun Acharya]([https://tarun-acharya.github.io/TarunAcharya/](https://tarun-acharya.github.io/TarunAcharya/)<br>
-Find my work at : [Medium]([https://medium.com/@tarunkodakandla](https://medium.com/@tarunkodakandla))<br>
-Connect with me at [Linkedin]([https://www.linkedin.com/in/tarun-acharya/](https://www.linkedin.com/in/tarun-acharya/))<br>
+Take a look at my portfolio: [Tarun Acharya](https://tarun-acharya.github.io/TarunAcharya/)<br>
+Find my work at : [Medium](https://medium.com/@tarunkodakandla)<br>
+Connect with me at [Linkedin](https://www.linkedin.com/in/tarun-acharya/)<br>
 Reach me at : [tarunkodakandla@gmail.com](mailto:tarunkodakandla@gmail.com)
 
 <!--
