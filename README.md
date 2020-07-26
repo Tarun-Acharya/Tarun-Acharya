@@ -1,9 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Tarun 👋
 <img align="right" width="400" height="400" src="karl-pawlowicz-gbRaa67fEPo-unsplash.jpg">
-I am a focused Computer Science major with 2 months of work experience aiming to leverage a proven knowledge of programming, applocation development and technologies such as data science to succesfully fill this role at your company. I can be relied upon to help
-your company achieve its goals with efficiency and outstanding ideas.
+I am a focused Computer Science major learning and experimenting with new technologies and skills. I am always looking out for new breakthroughs and to excel in new fields of study.
 
+One of those machine learning enthusiast trying to figure out the smart ideas behind the complex works.
+
+<br>
+
+I read and write articles.
+Take a look at my portfolio: [Tarun Acharya](https://tarun-acharya.github.io/TarunAcharya/)
+Find my work at : [Medium]([https://medium.com/@tarunkodakandla](https://medium.com/@tarunkodakandla))
+Connect with me at [Linkedin]([https://www.linkedin.com/in/tarun-acharya/](https://www.linkedin.com/in/tarun-acharya/))
 Reach me at : [tarunkodakandla@gmail.com](mailto:tarunkodakandla@gmail.com)
+
 <!--
 **Tarun-Acharya/Tarun-Acharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
