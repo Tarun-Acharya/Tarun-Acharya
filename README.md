@@ -2,7 +2,7 @@
 <img align="right" width="300" height="280" src="https://github.com/Tarun-Acharya/Tarun-Acharya/blob/master/karl-pawlowicz-gbRaa67fEPo-unsplash.jpg">
 I am a focused Computer Science major learning and experimenting with new technologies and skills. I am always looking out for new breakthroughs and to excel in new fields of study.
 
-One of those machine learning enthusiast trying to figure out the smart ideas behind the complex works.
+One of those machine learning enthusiasts and a passionate dev trying to figure out the smart ideas behind the complex works.
 
 <br>
 
